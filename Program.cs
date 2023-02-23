@@ -21,6 +21,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
             Console.WriteLine("Hey "+name);
             Console.Write("Congo you got " +num );
             Console.WriteLine(" Candies");
+            
         }
     }
 }
